@@ -1,8 +1,8 @@
 [Version anglaise](README.md)
 
-# Java Spring Test
+# Frontend Test
 
-Le test de développement Java Spring Anywr a pour but d'évaluer vos compétences en résolution de problèmes, vos connaissances générales en Java, Spring et les principes de développement d'applications, ainsi que votre approche globale du développement. Le test portera sur différents sujets tels que la théorie, l'application pratique, le dépannage, les tests et la pensée critique.
+Le test de développement frontend Anywr vise à évaluer vos compétences en résolution de problèmes, vos connaissances générales en développement frontend, Spring et les principes de développement d'applications, ainsi que votre approche globale du développement. Le test couvrira une gamme de sujets, notamment la théorie, l'application pratique, le dépannage, la conception de structures, les tests et la pensée critique.
 
 ## Resources
 
