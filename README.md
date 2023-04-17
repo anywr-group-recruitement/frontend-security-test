@@ -2,7 +2,7 @@
 
 # Java Spring Test
 
-The Anywr Java Spring development test is intended to evaluate your problem-solving skills, general knowledge of Java, Spring and application development principles, and overall approach to development. The test will cover a range of topics including theory, practical application, troubleshooting, database design, testing, and critical thinking.
+The Anywr Java Spring development test is intended to evaluate your problem-solving skills, general knowledge of Java, Spring and application development principles, and overall approach to development. The test will cover a range of topics including theory, practical application, troubleshooting, structure design, testing, and critical thinking.
 
 ## Resources
 
@@ -10,19 +10,23 @@ Feel free to use any resources you need while completing this test. Whether it's
 
 ## Exercice
 
-The main idea is to focus on authentication and authorization using Java Spring Boot as per the below :
-
-Create a RESTful API using Java Spring Boot that implements a user authentication and authorization system. The API should have the following features:
+Build a web application using React that implements a user authentication and authorization system. The web application should have the following features:
 
 - Allow users to register by providing a unique username and password.
 - Allow users to log in by providing their username and password.
 - Allow users to retrieve their own profile information, such as their username and email address. (Optional if you have time)
 - Use JSON Web Tokens (JWT) to authenticate and authorize API requests.
+- Display appropriate messages to the user in case of login or registration errors, such as invalid credentials or a user already exists.
+- Allow users to log out of their session.
 
-In addition, the API should include the following:
+In addition, the web application should include the following:
 
-- Input validation to ensure that only valid data is entered into the database.
+- Input validation to ensure that only valid data is entered into the system.
 - Unit tests to ensure that the authentication and authorization system functions correctly. (Optional if you have time)
+
+You can use any additional libraries or frameworks you are comfortable with to implement this exercise. Good luck!
+
+You can use any mocking tools like mockapi.io or beeceptor.com or even local json works too.
 
 ## Code delivery
 - Make sure to use GIT, and to commit your changes following Angular git commit conection https://www.conventionalcommits.org/en/v1.0.0-beta.4/
