@@ -1,8 +1,8 @@
 [French version](README_FR.md)
 
-# Java Spring Test
+# Frontend Test
 
-The Anywr Java Spring development test is intended to evaluate your problem-solving skills, general knowledge of Java, Spring and application development principles, and overall approach to development. The test will cover a range of topics including theory, practical application, troubleshooting, structure design, testing, and critical thinking.
+The Anywr frontend development test is intended to evaluate your problem-solving skills, general knowledge of frontend development, Spring and application development principles, and overall approach to development. The test will cover a range of topics including theory, practical application, troubleshooting, structure design, testing, and critical thinking.
 
 ## Resources
 
@@ -10,7 +10,7 @@ Feel free to use any resources you need while completing this test. Whether it's
 
 ## Exercice
 
-Build a web application using React that implements a user authentication and authorization system. The web application should have the following features:
+Build a web application using React/Angular/VueJs that implements a user authentication and authorization system. The web application should have the following features:
 
 - Allow users to register by providing a unique username and password.
 - Allow users to log in by providing their username and password.
