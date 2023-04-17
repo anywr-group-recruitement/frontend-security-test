@@ -11,7 +11,7 @@ N'hésitez pas à utiliser toutes les ressources dont vous avez besoin pour réu
 ## Exercice
 
 
-Construisez une application web en utilisant React qui implémente un système d'authentification et d'autorisation d'utilisateurs. L'application web devrait avoir les fonctionnalités suivantes :
+Construisez une application web en utilisant React/Angular/VueJs qui implémente un système d'authentification et d'autorisation d'utilisateurs. L'application web devrait avoir les fonctionnalités suivantes :
 
 - Permettre aux utilisateurs de s'inscrire en fournissant un nom d'utilisateur et un mot de passe uniques.
 - Permettre aux utilisateurs de se connecter en fournissant leur nom d'utilisateur et leur mot de passe.
